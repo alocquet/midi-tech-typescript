@@ -58,3 +58,7 @@ https://github.com/alocquet/midi-tech-typescript
     * Decorators
     * Mixins
     * Triple-Slash Directives
+
+
+More Details
+See https://www.typescriptlang.org/docs/
