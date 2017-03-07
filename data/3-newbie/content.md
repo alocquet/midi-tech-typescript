@@ -21,6 +21,10 @@
 
 
 ## Interfaces
+* contrat
+* readonly, optional
+* fonctions
+* index
 
 
 ## Classes
