@@ -28,6 +28,13 @@
 
 
 ## Classes
+* héritage
+* visibilité
+* accesseurs
+* static
+* abstract
+* focus sur les constructeurs
+* utilisation comme une interface
 
 
 ## Functions
