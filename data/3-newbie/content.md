@@ -1,24 +1,23 @@
 ## Newbie
-* basic types
-* variables
-* interfaces
 * classes
+* interfaces
+* variables
+* basic types
 * functions
 
 
 ## Basic Types
 * boolean, number, string
-* array : []
-* tuple : tableau de taille définie et dont les types sont connus : [string, number]
+* array 
 * Enum, any, void
-* null, undefined
-* never
-* type assertion = cast
-    * <string>value
-    * value as string
+* type assertion
 
 
 ## Variables
+* var
+* let
+* const
+* desctructuring / spread
 
 
 ## Interfaces

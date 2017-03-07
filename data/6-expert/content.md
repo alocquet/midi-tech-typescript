@@ -4,8 +4,7 @@
 * iterators/generators
 * Module / Namespace
 * Module resolution
-* Declaratino merging
-* JSX
+* Declaration merging
 * Decorators
 * Mixins
 * Triple-Slash Directives
