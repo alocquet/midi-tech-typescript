@@ -2,9 +2,9 @@
 * advanced types
 * symbols ** TODO?**
 * iterators/generators ** TODO?**
-* Module / Namespace ** TODO?**
+* Module / Namespace ** TODO Nico**
 * Module resolution ** TODO?**
-* Declaration merging ** TODO?**
+* Declaration merging ** TODO Nico**
 * Decorators ** TODO?**
 * Mixins ** TODO?**
 * Triple-Slash Directives ** TODO?**
@@ -16,3 +16,4 @@
 * union
 * type guards
 * nullables types
+* string literal types
