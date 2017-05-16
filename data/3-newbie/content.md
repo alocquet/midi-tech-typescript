@@ -1,9 +1,10 @@
-## Newbie
-* classes
-* interfaces
-* variables
+## Basics
 * basic types
+* variables
+* interfaces
+* classes
 * functions
+![baby](data/3-newbie/baby.gif)
 
 
 ## Basic Types
@@ -21,10 +22,10 @@
 
 
 ## Interfaces
-* contrat
+* contract
 * readonly, optional
-* fonctions
-* index
+* function type
+* indexed type
 
 
 ## Classes
@@ -38,3 +39,8 @@
 
 
 ## Functions
+* classique
+* arrow
+* optionnel / default
+* this ?
+* overload

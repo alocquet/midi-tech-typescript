@@ -12,12 +12,12 @@ Nicolas Rousseau - nicolas.rouseau1@gfi.fr
 https://github.com/alocquet/midi-tech-typescript
 https://alocquet.github.io/midi-tech-typescript
 https://www.typescriptlang.org/docs
+https://johnpapa.net/es5-es2015-typescript/
 
 
 
 ### Plan
-1. Origines - Exemple
-1. Newbie
-1. Tools
+1. Intro - Exemple
+1. Basics
 1. Intermediate
 1. Expert
