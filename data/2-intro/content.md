@@ -28,7 +28,7 @@
 
 ## Live coding <!-- .element: style="color: #48453a" -->
 <!-- .slide: style="border: solid; background-color: rgba(211, 211, 211, 0.6); color:black;" data-background-image="data/2-intro/livecoding.gif"-->
-
-
-## Exemple : **TODO**
-* petite application Web, avec uniquement TS
+* application Web
+* intégration JQuery
+    * Triple-Slash Directives
+    * Declaration merging
