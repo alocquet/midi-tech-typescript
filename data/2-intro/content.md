@@ -26,8 +26,8 @@
     * Poussé par Angular2
 
 
-## Live coding
-![es5-es6-ts](data/2-intro/livecoding.gif)
+## Live coding <!-- .element: style="color: #48453a" -->
+<!-- .slide: style="border: solid; background-color: rgba(211, 211, 211, 0.6); color:black;" data-background-image="data/2-intro/livecoding.gif"-->
 
 
 ## Exemple : **TODO**
